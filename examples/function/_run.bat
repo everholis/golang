@@ -1,0 +1,1 @@
+go run function.go
