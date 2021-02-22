@@ -17,6 +17,8 @@ func main() {
 	//////////////////////////////////////////////////
 	// function statement
 
+	// ClosureTest1 is return of MyFunc1(). in other words, ClosureTest1 is anonymous function 
+	// ClosureTest1 is exist in scope of MyFunc1()() 
 	ClosureTest1 := MyFunc1()
 
 	rtnum = ClosureTest1()
